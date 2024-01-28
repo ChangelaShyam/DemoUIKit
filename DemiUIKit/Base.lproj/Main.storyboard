@@ -31,7 +31,6 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="tbv" destination="2Ay-ln-T6a" id="ohU-VC-9IU"/>
                         <outlet property="tbvSbuClassData" destination="2Ay-ln-T6a" id="knx-SP-DBo"/>
                     </connections>
                 </viewController>
