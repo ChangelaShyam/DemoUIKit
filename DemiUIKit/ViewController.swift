@@ -12,7 +12,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var tbv: UITableView!
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+     
+        view.backgroundColor = .red
     }
 
 }
